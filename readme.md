@@ -59,5 +59,4 @@ A notification script (\`notify.sh\`) can send post-deployment messages to email
 
 📌 Author
 ---------
-
 **Ayush Trivedi** 
