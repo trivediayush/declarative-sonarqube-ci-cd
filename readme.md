@@ -52,10 +52,10 @@ All sensitive values (e.g., AWS keys, SSH keys, DB credentials) are managed usin
 
 A notification script (\`notify.sh\`) can send post-deployment messages to email or Slack.
 
-📈 Diagram Reference
+📈 Architecture Diagram
 --------------------
 
-See included architecture blueprint for CI/CD and provisioning flow.
+<img src="diagram.png">
 
 📌 Author
 ---------
