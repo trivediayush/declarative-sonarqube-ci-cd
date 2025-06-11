@@ -55,8 +55,8 @@ A notification script (\`notify.sh\`) can send post-deployment messages to email
 📈 Architecture Diagram
 --------------------
 
-<img src="diagram.png">
+<img src="architecture.png">
 
 📌 Author
 ---------
-**Ayush Trivedi** 
+# Ayush Trivedi 
