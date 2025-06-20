@@ -58,6 +58,13 @@ This repository demonstrates a fully functional DevSecOps Continuous Integration
 
 <img src="images/devsecops.png">
 
+🧭 Output Images
+-----------------------
+
+<img src="images/output0.png">
+<img src="images/output1.png">
+<img src="images/output2.png">
+
 👤 Author
 -----------------------
 
