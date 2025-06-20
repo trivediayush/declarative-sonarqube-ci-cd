@@ -1,0 +1,7 @@
+[allowlist]
+description = "Safe strings to ignore"
+
+[[rules]]
+id = "generic-api-key"
+description = "Generic API Key"
+regex = '''(?i)(apikey|token|secret)[\s:=]+['"]?[0-9a-zA-Z-_]{8,}['"]?'''
